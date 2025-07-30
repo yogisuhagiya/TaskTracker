@@ -1,0 +1,11 @@
+C:\Users\Yogi Suhagiya\TaskTrackerSolution\TaskTracker.Domain\bin\Debug\net8.0\TaskTracker.Domain.deps.json
+C:\Users\Yogi Suhagiya\TaskTrackerSolution\TaskTracker.Domain\bin\Debug\net8.0\TaskTracker.Domain.dll
+C:\Users\Yogi Suhagiya\TaskTrackerSolution\TaskTracker.Domain\bin\Debug\net8.0\TaskTracker.Domain.pdb
+C:\Users\Yogi Suhagiya\TaskTrackerSolution\TaskTracker.Domain\obj\Debug\net8.0\TaskTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yogi Suhagiya\TaskTrackerSolution\TaskTracker.Domain\obj\Debug\net8.0\TaskTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\Yogi Suhagiya\TaskTrackerSolution\TaskTracker.Domain\obj\Debug\net8.0\TaskTracker.Domain.AssemblyInfo.cs
+C:\Users\Yogi Suhagiya\TaskTrackerSolution\TaskTracker.Domain\obj\Debug\net8.0\TaskTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yogi Suhagiya\TaskTrackerSolution\TaskTracker.Domain\obj\Debug\net8.0\TaskTracker.Domain.dll
+C:\Users\Yogi Suhagiya\TaskTrackerSolution\TaskTracker.Domain\obj\Debug\net8.0\refint\TaskTracker.Domain.dll
+C:\Users\Yogi Suhagiya\TaskTrackerSolution\TaskTracker.Domain\obj\Debug\net8.0\TaskTracker.Domain.pdb
+C:\Users\Yogi Suhagiya\TaskTrackerSolution\TaskTracker.Domain\obj\Debug\net8.0\ref\TaskTracker.Domain.dll
